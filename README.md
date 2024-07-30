@@ -5,6 +5,8 @@ The Flight Status and Notifications System is designed to provide real-time upda
 
 Summary of the Project:
 The project is structured into two main components: the frontend and the backend. The frontend is developed using React.js to create an intuitive and responsive user interface. The backend consists of microservices developed in Python, Go, and Java, which handle flight data processing, notifications, and integration with airport systems. The system uses MongoDB and PostgreSQL for data storage and Kafka, RabbitMQ, and Firebase Cloud Messaging for sending notifications.
+
+
 ├── booking-microservice/
 │ ├── src/
 │ ├── tests/
